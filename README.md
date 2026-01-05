@@ -1,13 +1,5 @@
 # Nexora-Retail-Excel-Sales-Analysis
 Excel-based business analysis to identify why sales growth did not translate into profit growth.
-## 📊 Dashboard Preview
-![Dashboard](Screenshots/dashboard.png)
-
-## 📈 Sales vs Profit Trend
-![Sales vs Profit](Screenshots/sales_vs_profit.png)
-
-## 💸 Discount Impact on Profit Margin
-![Discount vs Margin](Screenshots/discount_vs_margin.png)
 
 ## 🔍 Key Business Questions Answered
 - Why are sales increasing but profits declining?
